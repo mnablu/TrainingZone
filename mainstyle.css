@@ -70,6 +70,13 @@ p {
 	font-family: sans-serif;
 	font-size: 12;
 }
+h1{
+	font-family: sans-serif;
+	border-top: #FC7200 1px solid;
+    
+    color: black;
+    font-weight: normal;
+}
 h2 {
     font-family: sans-serif;
     margin-bottom: -10px;
@@ -80,6 +87,7 @@ h2 {
     font-weight: normal;
 }
 h3 {
+<<<<<<< HEAD
 	color: #EF8C0E;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-style: italic;
@@ -90,6 +98,16 @@ h3 {
 	padding-top: 5px;
 }
 
+=======
+    font-family: sans-serif;
+    margin-bottom: -10px;
+    font-size: 12;
+    
+    border-bottom: #FC7200 1px solid;
+    color: black;
+    font-weight: normal;
+}
+>>>>>>> 37b36b31ad56a25f2177f8eb57452aa8db5e5aab
 li {
     font-family: sans-serif;
 }
