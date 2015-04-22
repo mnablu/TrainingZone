@@ -66,11 +66,27 @@ p {
     font-family: sans-serif;
     font-size: 12;
 }
+h1{
+	font-family: sans-serif;
+	border-top: #FC7200 1px solid;
+    
+    color: black;
+    font-weight: normal;
+}
 h2 {
     font-family: sans-serif;
     margin-bottom: -10px;
     font-size: 12;
     border-top: #FC7200 1px solid;
+    border-bottom: #FC7200 1px solid;
+    color: black;
+    font-weight: normal;
+}
+h3 {
+    font-family: sans-serif;
+    margin-bottom: -10px;
+    font-size: 12;
+    
     border-bottom: #FC7200 1px solid;
     color: black;
     font-weight: normal;
