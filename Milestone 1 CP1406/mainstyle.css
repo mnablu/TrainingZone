@@ -1,0 +1,116 @@
+body {
+    padding: 2em 2em 4em;
+    margin-top: 80px;
+    margin-left: 20%;
+    background-color: white;
+    margin-right: 0;
+    margin-bottom: 0;
+}
+header {
+    background-color: black;
+    height: 80px;
+    position: absolute;
+    top: 0;
+    margin: 0;
+    width: 80%;
+    left: 20%;
+    margin-left: 0;
+    margin-top: 0;
+}
+#navbar {
+    background-color: white;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    margin: 0;
+    width: 20%;
+    min-width: 200px;
+    left: 0;
+    margin-left: 0;
+    border-right: lightgrey 1px solid;
+    padding-top: 30px;
+}
+#navbar ul {
+    position: absolute; 
+    left: 0%; 
+    top: 25%; 
+    margin: 0px; 
+    padding: 0px;
+    font-family: sans-serif;
+	font-size: 16;
+}
+#navbar li {
+    list-style-type: none;
+    margin-bottom: 15px;
+    width: 148%;
+    padding-top: 15px;
+    padding-left: 30%;
+}
+#navbar ul li a {
+    height: 0px; 
+    margin: 0px; 
+    padding: 0px 10px 0px 10px; 
+	color: black; 
+    text-decoration: none;  
+    font-size: 17px;
+    width: 100px;
+}
+#navbar ul li a:hover {
+    color: red; 
+}
+.headerh1 h1 {
+    color: white;
+    font-family: sans-serif;
+    font-size: 30px;
+    padding-left: 5%;
+    font-weight: normal;
+}
+p {
+    font-family: sans-serif;
+    font-size: 12;
+}
+h2 {
+    font-family: sans-serif;
+    margin-bottom: -10px;
+    font-size: 15px;
+    border-top: #FC7200 1px solid;
+    border-bottom: #FC7200 1px solid;
+    color: black;
+    font-weight: normal;
+}
+h3 {
+    font-family: sans-serif;
+    font-size: 23px;
+    color: black;
+    font-weight: normal;
+    border-top: #FC7200 1px solid;
+    border-bottom: #FC7200 1px solid;
+}
+h4 {
+    font-family: sans-serif;
+    font-size: 18px;
+    color: black;
+    font-weight: normal;
+}
+li {
+    font-family: sans-serif;
+}
+.readmorelink {
+    font-family: sans-serif;
+    font-weight: normal;
+    text-decoration: none;
+}
+td {
+    width: 45%;
+}
+.colleft {
+    float: left;
+    width: 45%;
+}
+.colright {
+    float: right;
+    width: 45%;
+}
+.imgright {
+    float: right;
+}
