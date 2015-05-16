@@ -7,7 +7,7 @@ body {
     margin-bottom: 0;
 }
 header {
-    background-color: black;
+    background-color: #292c2f;
     height: 80px;
     position: absolute;
     top: 0;
@@ -33,11 +33,12 @@ header {
 #navbar ul {
     position: absolute; 
     left: 0%; 
-    top: 25%; 
+    top: 200px; 
     margin: 0px; 
     padding: 0px;
     font-family: sans-serif;
 	font-size: 16;
+	width: 55%;
 }
 #navbar li {
     list-style-type: none;
@@ -45,6 +46,7 @@ header {
     width: 148%;
     padding-top: 15px;
     padding-left: 30%;
+	border-top: lightgrey 1px solid;
 }
 #navbar ul li a {
     height: 0px; 
@@ -52,7 +54,7 @@ header {
     padding: 0px 10px 0px 10px; 
 	color: black; 
     text-decoration: none;  
-    font-size: 17px;
+    font-size: 23px;
     width: 100px;
 }
 #navbar ul li a:hover {
@@ -162,7 +164,7 @@ td {
 
 .footer-distributed h3{
 	color:  #ffffff;
-	font: normal 36px 'Cookie', cursive;
+	font: normal 36px 'Cookie', sans-serif;
 	margin: 0;
 }
 
@@ -301,4 +303,7 @@ td {
 		margin-left: 0;
 	}
 
+}
+h1 {
+	font-family: sans-serif
 }
