@@ -3,6 +3,7 @@ body {
 	background-image: url(Images/edit.jpg);
 	float: left;
 	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 
 
