@@ -66,6 +66,18 @@ header {
 #navbar ul li a:hover {
     color: red; 
 }
+
+.tsvh1{
+	color: #ffffff;
+	background-color:#292c2f;
+	margin-right:-82%;
+	font: normal 18px , sans-serif;
+	}
+.tsvh1 h1 span{
+	color:  #F60;
+	font: normal 35px 'Cookie', sans-serif;
+}
+
 .headerh1 h1 {
     color: white;
     font-family: sans-serif;
