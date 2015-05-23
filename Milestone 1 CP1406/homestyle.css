@@ -1,5 +1,5 @@
 html {
-    background-image: url(Images/bow-598118_1280.jpg);
+    background-image: url(Images/edit.jpg);
     background-size: cover;
     height: 650px;
     background-attachment: fixed;
@@ -50,7 +50,7 @@ header {
     list-style-type: none;
     margin-bottom: 15px;
     width: 148%;
-    padding-top: 15px;
+    padding-top: 12px;
     padding-left: 30%;
 	border-top: lightgrey 1px solid;
 }
@@ -60,18 +60,56 @@ header {
     padding: 0px 10px 0px 10px; 
 	color: black; 
     text-decoration: none;  
-    font-size: 23px;
+    font-size: 18px;
     width: 100px;
 }
 #navbar ul li a:hover {
     color: red; 
 }
-
+#signUpButton {
+    position: absolute;
+    right: 25px;
+    bottom: 40%;
+    border-left: red 2px solid;
+    border-right: red 2px solid;
+}
+#signUpButton a {
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: white;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+#signUpButton a:hover {
+    border-top: red 2px solid;
+    border-bottom: red 2px solid;
+}
+#LogInButton {
+    position: absolute;
+    right: 125px;
+    bottom: 40%;
+    border-left: red 2px solid;
+    border-right: red 2px solid;
+}
+#LogInButton a {
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: white;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+#LogInButton a:hover {
+    border-top: red 2px solid;
+    border-bottom: red 2px solid;
+}
 .tsvh1{
 	color: #ffffff;
 	background-color:#292c2f;
 	margin-right:-82%;
 	font: normal 18px , sans-serif;
+    margin-top: -70px;
 	}
 .tsvh1 h1 span{
 	color:  #F60;
@@ -92,7 +130,7 @@ p {
 h2 {
     font-family: sans-serif;
     margin-bottom: -10px;
-    font-size: 12;
+    font-size: 20;
     border-top: #FC7200 1px solid;
     border-bottom: #FC7200 1px solid;
     color: black;
