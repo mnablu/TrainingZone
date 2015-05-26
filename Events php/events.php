@@ -129,15 +129,20 @@ Presented by Friends of the Theatre <br>
 
 <div><h2>AVIVA and Friends Go Abroad!</h2><img src='musos/Avivanf500.jpg' width="298" height="191" class='artistPhotoLeft'>Grab your passport and travel with us to the Celtic Highlands and then step into the Bluegrass country in the heart of America!<br>Join us fir a toe tappin, soul searching journey as AVIVA makes its way around the world on the first of our two globe trotting adventures<br><br>featuring<br>Caroline Lloyd-Doolan on violin<br>Susan Fraser on Violin<br>Rebecca Brown on viola<br>Carol Radovanovic on cello<br>Paul Neilson on percussion<br><a href='https://au.patronbase.com/_TVCC/Seats/NumSeats?prod_id=0782&perf_id=1&section_id=M&seat_type_id=S'>Book now</a></div>
 
-<div><h2>Townsville Concert Band</h2><img src='musos/TCBlogo200.jpg' width="358" height="198" class='artistPhotoLeft'>2pm Sunday 28th June at C2(Townsville Civic Theatre)</div>
+<div><h2>Townsville Concert Band</h2><img src='musos/TCBlogo200.jpg' width="358" height="198" class='artistPhotoLeft'>2pm Sunday 28th June at C2 (Townsville Civic Theatre)</div>
 
-<div><h2>Voice of Pimlico</h2><img src='musos/PimlicoTitle.png' width="333" height="205" class='artistPhotoLeft'>2pm Sunday 6 September at C2(Townsville Civic Theatre</div>
+<div><h2>Voice of Pimlico</h2><img src='musos/PimlicoTitle.png' width="333" height="205" class='artistPhotoLeft'>2pm Sunday 6 September at C2 (Townsville Civic Theatre)</div>
 
-<div><h2>Townsville Concert Band</h2><img src='musos/TCBlogo200.jpg' width="358" height="198" class='artistPhotoLeft'>2pm Sunday 27th September at C2(Townsville Civic Theatre)</div>
+<div><h2>Townsville Concert Band</h2><img src='musos/TCBlogo200.jpg' width="358" height="198" class='artistPhotoLeft'>2pm Sunday 27th September at C2 (Townsville Civic Theatre)</div>
 
-<div><h2>Allegro Choir</h2><img src='musos/Allegro300.png' width="258" height="226" class='artistPhotoLeft'>2pm Sunday 22 November at C2(Townsville Civic Theatre)</div>
+<div><h2>Allegro Choir</h2><img src='musos/Allegro300.png' width="258" height="226" class='artistPhotoLeft'>2pm Sunday 22 November at C2 (Townsville Civic Theatre)</div>
 
-<div><h2>Aviva String Quartet</h2><img src='musos/AVIVA-LANE500.jpg' width="219" height="170" class='artistPhotoLeft'>The superb foursome return with their final concert for 2015, bringing their signature style of classical and modern music to the masses in their own fresh and entertaining style.<br>featuring<br>Caroline Lloyd-Doolan on violin<br>Susan Fraser on violin<br>Jessica Winton on viola<br>Ivy Wu on cello</div>
+<div><h2>Aviva String Quartet</h2><img src='musos/AVIVA-LANE500.jpg' width="219" height="170" class='artistPhotoLeft'>The superb foursome return with their final concert for 2015, bringing their signature style of classical and modern music to the masses in their own fresh and entertaining style.<br>featuring the following musicians: <br>
+<ul> <li> Caroline Lloyd-Doolan on violin</li>
+<li>Susan Fraser on violinJessica</li>
+<li>Winton on viola</li>
+<li>Ivy Wu on cello</li>
+</ul></div>
 
 
 
