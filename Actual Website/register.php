@@ -69,10 +69,10 @@ echo $form;
 ?></p>
 
 <p>
-<a href="../../membership/Membership applic form2014.pdf"><img src="Images/pdf_icon.png" alt="" width="29" height="29" align="absmiddle"/></a><a href="../../membership/Membership applic form2014.pdf" id="pdf">Download the Registration form as a pdf.file
+<a href="../membership/Membership applic form2014.pdf"><img src="Images/pdf_icon.png" alt="" width="29" height="29" align="absmiddle"/></a><a href="../membership/Membership applic form2014.pdf" id="pdf">Download the Registration form as a pdf.file
 </a></p>
 <p>
- <a href="../../membership/Membership applic form 2015.doc"><img src="Images/Word_2013_Icon.png" alt="" width="29" height="26" align="absmiddle"/></a><a href="../../membership/Membership applic form 2015.doc" id="docx">Download the Registration form as a Word Document
+ <a href="../membership/Membership applic form 2015.doc"><img src="Images/Word_2013_Icon.png" alt="" width="29" height="26" align="absmiddle"/></a><a href="../membership/Membership applic form 2015.doc" id="docx">Download the Registration form as a Word Document
 </a></p>
 
 </body>
