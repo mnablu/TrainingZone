@@ -3,10 +3,12 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Register</title>
+<link href="register.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
-<?php
+<p>
+  <?php
 require('config.php');
 
 if(isset($_POST['submit'])){
@@ -64,6 +66,14 @@ echo $form;
 }else{
 	echo "program crashed";
 }
-?>
+?></p>
+
+<p>
+<a href="../../membership/Membership applic form2014.pdf"><img src="Images/pdf_icon.png" alt="" width="29" height="29" align="absmiddle"/></a><a href="../../membership/Membership applic form2014.pdf" id="pdf">Download the Registration form as a pdf.file
+</a></p>
+<p>
+ <a href="../../membership/Membership applic form 2015.doc"><img src="Images/Word_2013_Icon.png" alt="" width="29" height="26" align="absmiddle"/></a><a href="../../membership/Membership applic form 2015.doc" id="docx">Download the Registration form as a Word Document
+</a></p>
+
 </body>
 </html>
