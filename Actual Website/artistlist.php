@@ -194,7 +194,7 @@ label {
 
 <p class="footer-company-about">
 	<span>About the Community Music Centre</span>
-Blah blah blah blah.Blah blah blah blah.Blah blah blah blah.Blah blah blah blah.Blah blah blah blah.
+Based in Townsville, North Qld, the Music Centre presents concerts and workshops throughout the year, in a diverse range of genres.
 	</p>
 
 <div class="footer-icons">

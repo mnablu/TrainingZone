@@ -95,7 +95,7 @@ label {
    background: #28597a;
    color: #ababab;
    }
-.button:active {
++.button:active {
    border-top-color: #1b435e;
    background: #1b435e;
    }
@@ -117,12 +117,13 @@ label {
     <div id="navbar">
         <center><a href="home.html" target="_self"><img src="Images/TCMC150100.jpg" alt="Townsville Music Centre Logo"></a></center>
 <ul>
+    <div class = "tsvh1"> <h1>Townsville <span>Community Music Centre</span></h1> </div>
 	<li><a href="home.html" target="_self">Home</a></li>
 	<li><a href="announcements.html" target="_self">Announcements</a></li>
-	<li><a href="events.html" target="_self">Events</a></li>
-	<li><a href="artists.html" target="_self">Artists</a></li>            
+	<li><a href="events.php" target="_self">Events</a></li>
+	<li><a href="artistlist.php" target="_self">Artists</a></li>            
 	<li><a href="history.html" target="_self">History</a></li>	
-     <li><a href="about.html" target="_self">About/Contact Us</a></li>
+    <li><a href="about.html" target="_self">About/Contact Us</a></li>
 	<li><a href="https://www.facebook.com/pages/Townsville-Community-Music-Centre/159636880763534?fref=ts" target="_blank"><img src="Images/FB_FindUsOnFacebook-114.png" alt="Find us on Facebook"></a></li>
 </ul>
     </div>
@@ -178,7 +179,7 @@ label {
 	<div>
 <i class="fa fa-map-marker"></i>
 	<p><span>PO Box 1006,4810 </span>		 			 Townsville, Qld</p>
-	</div>
++	</div>
 <br>
 <div>
 	<i class="fa fa-phone"></i>
@@ -196,7 +197,7 @@ label {
 
 <p class="footer-company-about">
 	<span>About the Community Music Centre</span>
-Blah blah blah blah.Blah blah blah blah.Blah blah blah blah.Blah blah blah blah.Blah blah blah blah.
+Based in Townsville, North Qld, the Music Centre presents concerts and workshops throughout the year, in a diverse range of genres.
 	</p>
 
 <div class="footer-icons">
@@ -206,4 +207,4 @@ Blah blah blah blah.Blah blah blah blah.Blah blah blah blah.Blah blah blah blah.
 </div>
 </footer>
 </body>
-</html>
+</html> 
