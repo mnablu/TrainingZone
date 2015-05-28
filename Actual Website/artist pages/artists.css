@@ -1,7 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
 body {
     padding: 2em 2em 4em;
-    margin-top: 80px;
-    margin-left: 20%;
+    margin-top: 0px;
+    margin-left: 0%;
     background-color: white;
     margin-right: 0;
     margin-bottom: 0;
@@ -17,49 +20,7 @@ header {
     margin-left: 0;
     margin-top: 0;
 }
-#navbar {
-    background-color: white;
-    height: 100%;
-    position: fixed;
-    top: 0;
-    margin: 0;
-    width: 20%;
-    min-width: 200px;
-    left: 0;
-    margin-left: 0;
-    border-right: lightgrey 1px solid;
-    padding-top: 30px;
-}
-#navbar ul {
-    position: absolute; 
-    left: 0%; 
-    top: 200px; 
-    margin: 0px; 
-    padding: 0px;
-    font-family: sans-serif;
-	font-size: 16;
-	width: 55%;
-}
-#navbar li {
-    list-style-type: none;
-    margin-bottom: 15px;
-    width: 148%;
-    padding-top: 12px;
-    padding-left: 30%;
-	border-top: lightgrey 1px solid;
-}
-#navbar ul li a {
-    height: 0px; 
-    margin: 0px; 
-    padding: 0px 10px 0px 10px; 
-	color: black; 
-    text-decoration: none;  
-    font-size: 18px;
-    width: 100px;
-}
-#navbar ul li a:hover {
-    color: red;  
-}
+
 #signUpButton {
     position: absolute;
     right: 25px;
@@ -183,19 +144,18 @@ td {
 	border-radius:5px;
 	margin-bottom:3250px;
 	}
-
 /* Back Button*/
 
 .button {
 	background-color: #F60;
 	border-radius: 10px;
-	margin-right: 88%;
-	padding-left: 0%;
+	margin-right: 94%;
+	padding-left: 0.5%;
 	
 }
 .button a{
 	font-family: sans-serif;
-    font-size: 18px;
+    font-size: 20px;
     color:black;
     padding-left: 7px;
     padding-right: 7px;
